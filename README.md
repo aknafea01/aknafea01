@@ -1,12 +1,12 @@
 
-<h1 align="left">
+<h1 align="left;" style="color:blue">
 Hi! I'm Ahmed Kamal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial+Code&pause=1000&color=3A6B7E&width=700&lines=Welcome+To+my+Github+Profile+.+.+.;I'm+interested+in+Full+Stack+%26+Embedded+C.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial+Code&pause=1000&color=5094AF&width=700&lines=Welcome+To+my+Github+Profile+.+.+.;I'm+interested+in+Full+Stack+%26+Embedded+C.)](https://git.io/typing-svg)
 
 
-### I'm a developer from Egypt, and I'm passionate about Full Stack and embedded C.
+### I'm a developer from Egypt, and I'm passionate about Full Stack and Embedded C.
 
 ## Skills:
 ### Languages:
@@ -22,7 +22,7 @@ Hi! I'm Ahmed Kamal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+##  Contact Me
 
 <p align="left">
     <a href="mailto:nafeaworks@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
