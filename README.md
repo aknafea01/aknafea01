@@ -3,7 +3,7 @@
 Hi! I'm Ahmed Kamal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=436&lines=Welcome+To+my+Github+Profile+.+.+.;I'm+interested+in+DS+%26+ML.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=436&lines=Welcome+To+my+Github+Profile+.+.+.;I'm+interested+in+Front-End+%26+Back-end.)](https://git.io/typing-svg)
 
 
 ### I'm a SEF student from Egypt, and I'm passionate about Front-end & Back-end Learning.
